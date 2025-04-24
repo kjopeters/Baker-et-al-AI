@@ -1,0 +1,343 @@
+﻿fishID,GTfish,predicted_class,predicted_class_confidence,correct_classification_confidence ,camera_height,fish_angle,fish_orientation,length,width,height,weight
+1,Flathead,Dusky Flathead,0.73,0.734094739,1.00,0,Dorsal,360,70,25,0.275
+1,Flathead,Dusky Flathead,0.65,0.65843755,1.00,45,Dorsal,360,70,25,0.275
+1,Flathead,Dusky Flathead,0.47,0.264876842,1.00,90,Dorsal,360,70,25,0.275
+1,Flathead,Dusky Flathead,0.76,0.76415,1.00,135,Dorsal,360,70,25,0.275
+1,Flathead,Dusky Flathead,0.7,0.709681451,1.00,180,Dorsal,360,70,25,0.275
+1,Flathead,Dusky Flathead,0.81,0.818863153,1.00,225,Dorsal,360,70,25,0.275
+1,Flathead,Dusky Flathead,0.62,0.623045444,1.00,270,Dorsal,360,70,25,0.275
+1,Flathead,Dusky Flathead,0.58,0.582369387,1.00,315,Dorsal,360,70,25,0.275
+1,Flathead,Dusky Flathead,0.6,0.609997928,1.00,0,Dorsal,360,70,25,0.275
+1,Flathead,Dusky Flathead,0.46,0.468074441,1.00,0,Ventral,360,70,25,0.275
+1,Flathead,Dusky Flathead,0.86,0.864923477,1.00,45,Ventral,360,70,25,0.275
+1,Flathead,Dusky Flathead,0.35,0.250515044,1.00,90,Ventral,360,70,25,0.275
+1,Flathead,Dusky Flathead,0.27,0.278536737,1.00,135,Ventral,360,70,25,0.275
+1,Flathead,Dusky Flathead,0.33,0.334304124,1.00,180,Ventral,360,70,25,0.275
+1,Flathead,Dusky Flathead,0.71,0.713296473,1.00,225,Ventral,360,70,25,0.275
+1,Flathead,Dusky Flathead,0.45,0.459827185,1.00,270,Ventral,360,70,25,0.275
+1,Flathead,Dusky Flathead,0.4,0.40108186,1.00,315,Ventral,360,70,25,0.275
+1,Flathead,Dusky Flathead,0.33,0.331193537,1.00,0,Ventral,360,70,25,0.275
+1,Flathead,Dusky Flathead,0.54,0.544385,1.50,0,Ventral,360,70,25,0.275
+1,Flathead,Dusky Flathead,0.83,0.833431184,1.50,45,Ventral,360,70,25,0.275
+1,Flathead,Dusky Flathead,0.81,0.815624058,1.50,90,Ventral,360,70,25,0.275
+1,Flathead,Dusky Flathead,0.79,0.796573222,1.50,135,Ventral,360,70,25,0.275
+1,Flathead,Dusky Flathead,0.81,0.817937136,1.50,180,Ventral,360,70,25,0.275
+1,Flathead,Dusky Flathead,0.85,0.854394555,1.50,225,Ventral,360,70,25,0.275
+1,Flathead,Dusky Flathead,0.64,0.64457,1.50,270,Ventral,360,70,25,0.275
+1,Flathead,Dusky Flathead,0.65,0.656667709,1.50,315,Ventral,360,70,25,0.275
+1,Flathead,Dusky Flathead,0.85,0.850033045,1.50,0,Ventral,360,70,25,0.275
+1,Flathead,Dusky Flathead,0.88,0.886961401,1.50,0,Dorsal,360,70,25,0.275
+1,Flathead,Dusky Flathead,0.61,0.611002803,1.50,45,Dorsal,360,70,25,0.275
+1,Flathead,Dusky Flathead,0.61,0.610367894,1.50,90,Dorsal,360,70,25,0.275
+1,Flathead,Dusky Flathead,0.81,0.814647377,1.50,135,Dorsal,360,70,25,0.275
+1,Flathead,Dusky Flathead,0.71,0.71603,1.50,180,Dorsal,360,70,25,0.275
+1,Flathead,Dusky Flathead,0.4,0.400898546,1.50,225,Dorsal,360,70,25,0.275
+1,Flathead,Dusky Flathead,0.63,0.635703325,1.50,270,Dorsal,360,70,25,0.275
+1,Flathead,Dusky Flathead,0.73,0.738026,1.50,315,Dorsal,360,70,25,0.275
+1,Flathead,Dusky Flathead,0.64,0.643921,1.50,0,Dorsal,360,70,25,0.275
+1,Flathead,yellowfin bream,0.34,0.14833805,1.50,Groundtruth,Groundtruth,,,,
+1,Flathead,Dusky Flathead,0.44,0.441686213,1.00,Groundtruth,Groundtruth,,,,
+2,Snapper,Dusky Flathead,0.39,0.037011482,1.00,Groundtruth,Groundtruth,,,,
+2,Snapper,Dusky Flathead,0.44,0.033011548,1.00,0,Right,410,130,40,0.900
+2,Snapper,Snapper,0.57,0.576909,1.00,45,Right,410,130,40,0.900
+2,Snapper,yellowfin bream,0.35,0.055517864,1.00,90,Right,410,130,40,0.900
+2,Snapper,Dusky Flathead,0.41,0.070813231,1.00,135,Right,410,130,40,0.900
+2,Snapper,Sergeant Baker,0.41,0.03006948,1.00,180,Right,410,130,40,0.900
+2,Snapper,Dusky Flathead,0.33,0.041046266,1.00,225,Right,410,130,40,0.900
+2,Snapper,yellowfin bream,0.38,0.031841464,1.00,270,Right,410,130,40,0.900
+2,Snapper,Dusky Flathead,0.51,0.182623476,1.00,315,Right,410,130,40,0.900
+2,Snapper,Dusky Flathead,0.41,0.052786209,1.00,0,Right,410,130,40,0.900
+2,Snapper,yellowfin bream,0.46,0.044937264,1.00,0,Left,410,130,40,0.900
+2,Snapper,Snapper,0.44,0.445133,1.00,45,Left,410,130,40,0.900
+2,Snapper,yellowfin bream,0.48,0.078309968,1.00,90,Left,410,130,40,0.900
+2,Snapper,Dusky Flathead,0.61,0.10636428,1.00,180,Left,410,130,40,0.900
+2,Snapper,Dusky Flathead,0.53,0.055254605,1.00,225,Left,410,130,40,0.900
+2,Snapper,Snapper,0.28,0.288335562,1.00,270,Left,410,130,40,0.900
+2,Snapper,Dusky Flathead,0.52,0.142880276,1.00,315,Left,410,130,40,0.900
+2,Snapper,yellowfin bream,0.37,0.067397222,1.00,0,Left,410,130,40,0.900
+2,Snapper,yellowfin bream,0.46,0.017586479,1.50,Groundtruth,Groundtruth,,,,
+2,Snapper,yellowfin bream,0.6,0.016473135,1.50,0,Left,410,130,40,0.900
+2,Snapper,Dusky Flathead,0.36,0.003868926,1.50,45,Left,410,130,40,0.900
+2,Snapper,Dusky Flathead,0.77,0.001024872,1.50,90,Left,410,130,40,0.900
+2,Snapper,Dusky Flathead,0.34,0.008101509,1.50,135,Left,410,130,40,0.900
+2,Snapper,Dusky Flathead,0.31,0.022369407,1.50,180,Left,410,130,40,0.900
+2,Snapper,Dusky Flathead,0.33,0.007452524,1.50,225,Left,410,130,40,0.900
+2,Snapper,Dusky Flathead,0.75,0.007501705,1.50,315,Left,410,130,40,0.900
+2,Snapper,yellowfin bream,0.32,0.00906835,1.50,0,Left,410,130,40,0.900
+2,Snapper,Southern Maori Wrasse,0.47,0.008862867,1.50,180,Right,410,130,40,0.900
+2,Snapper,Dusky Flathead,0.27,0.014023328,1.50,180,Right,410,130,40,0.900
+2,Snapper,Southern Maori Wrasse,0.53,0.001411813,1.50,225,Right,410,130,40,0.900
+2,Snapper,Dusky Flathead,0.74,0.002515531,1.50,270,Right,410,130,40,0.900
+2,Snapper,Southern Maori Wrasse,0.66,0.003699551,1.50,315,Right,410,130,40,0.900
+2,Snapper,Dusky Flathead,0.73,0.002252872,1.50,0,Right,410,130,40,0.900
+2,Snapper,Dusky Flathead,0.54,0.001551157,1.50,45,Right,410,130,40,0.900
+2,Snapper,Dusky Flathead,0.57,0.00033831,1.50,90,Right,410,130,40,0.900
+2,Snapper,Dusky Flathead,0.43,0.001671271,1.50,135,Right,410,130,40,0.900
+2,Snapper,Dusky Flathead,0.58,0.00285458,1.50,180,Right,410,130,40,0.900
+3,Flathead,Sergeant Baker,0.68,0.069076262,1.50,Groundtruth,Groundtruth,,,,
+3,Flathead,Sergeant Baker,0.72,0.063262805,1.50,0,Dorsal,390,90,25,0.350
+3,Flathead,Sergeant Baker,0.39,0.295517325,1.50,45,Dorsal,390,90,25,0.350
+3,Flathead,Sergeant Baker,0.55,0.303834707,1.50,90,Dorsal,390,90,25,0.350
+3,Flathead,Dusky Flathead,0.34,0.341473907,1.50,135,Dorsal,390,90,25,0.350
+3,Flathead,Sergeant Baker,0.33,0.288275123,1.50,180,Dorsal,390,90,25,0.350
+3,Flathead,Sergeant Baker,0.68,0.12289945,1.50,225,Dorsal,390,90,25,0.350
+3,Flathead,Dusky Flathead,0.52,0.526145458,1.50,270,Dorsal,390,90,25,0.350
+3,Flathead,Dusky Flathead,0.33,0.339968383,1.50,315,Dorsal,390,90,25,0.350
+3,Flathead,Dusky Flathead,0.49,0.492564231,1.50,0,Ventral,390,90,25,0.350
+3,Flathead,Dusky Flathead,0.4,0.403225094,1.50,45,Ventral,390,90,25,0.350
+3,Flathead,Dusky Flathead,0.34,0.34955743,1.50,90,Ventral,390,90,25,0.350
+3,Flathead,Dusky Flathead,0.35,0.357440561,1.50,135,Ventral,390,90,25,0.350
+3,Flathead,yellowfin bream,0.5,0.114547953,1.50,180,Ventral,390,90,25,0.350
+3,Flathead,Sergeant Baker,0.32,0.171064481,1.50,225,Ventral,390,90,25,0.350
+3,Flathead,Sergeant Baker,0.57,0.188193053,1.50,270,Ventral,390,90,25,0.350
+3,Flathead,Sergeant Baker,0.26,0.204827845,1.50,315,Ventral,390,90,25,0.350
+3,Flathead,Dusky Flathead,0.87,0.879486,1.00,Groundtruth,Groundtruth,390,90,25,0.350
+3,Flathead,Dusky Flathead,0.6,0.609395802,1.00,0,Ventral,390,90,25,0.350
+3,Flathead,Dusky Flathead,0.34,0.349954277,1.00,90,Ventral,390,90,25,0.350
+3,Flathead,Dusky Flathead,0.4,0.407325774,1.00,135,Ventral,390,90,25,0.350
+3,Flathead,Dusky Flathead,0.49,0.498895705,1.00,180,Ventral,390,90,25,0.350
+3,Flathead,Dusky Flathead,0.46,0.463302553,1.00,225,Ventral,390,90,25,0.350
+3,Flathead,Dusky Flathead,0.4,0.403067023,1.00,270,Ventral,390,90,25,0.350
+3,Flathead,Dusky Flathead,0.52,0.528259337,1.00,315,Ventral,390,90,25,0.350
+3,Flathead,Dusky Flathead,0.44,0.445011258,1.00,0,Dorsal,390,90,25,0.350
+3,Flathead,Dusky Flathead,0.41,0.415534526,1.00,45,Dorsal,390,90,25,0.350
+3,Flathead,Dusky Flathead,0.77,0.778462708,1.00,90,Dorsal,390,90,25,0.350
+3,Flathead,Dusky Flathead,0.69,0.6999771,1.00,135,Dorsal,390,90,25,0.350
+3,Flathead,Dusky Flathead,0.53,0.53126806,1.00,180,Dorsal,390,90,25,0.350
+3,Flathead,Dusky Flathead,0.51,0.519258916,1.00,225,Dorsal,390,90,25,0.350
+3,Flathead,Dusky Flathead,0.71,0.711465538,1.00,270,Dorsal,390,90,25,0.350
+3,Flathead,Dusky Flathead,0.46,0.462369561,1.00,315,Dorsal,390,90,25,0.350
+4,Flathead,Dusky Flathead,0.81,0.81896472,1.00,Groundtruth,Groundtruth,,,,
+4,Flathead,Dusky Flathead,0.75,0.757882178,1.00,0,Dorsal,420,100,35,0.535
+4,Flathead,Dusky Flathead,0.81,0.818419039,1.00,45,Dorsal,420,100,35,0.535
+4,Flathead,Dusky Flathead,0.73,0.738051176,1.00,90,Dorsal,420,100,35,0.535
+4,Flathead,Dusky Flathead,0.81,0.817327678,1.00,135,Dorsal,420,100,35,0.535
+4,Flathead,Dusky Flathead,0.81,0.812172592,1.00,180,Dorsal,420,100,35,0.535
+4,Flathead,Dusky Flathead,0.62,0.628171444,1.00,225,Dorsal,420,100,35,0.535
+4,Flathead,Dusky Flathead,0.86,0.861781895,1.00,270,Dorsal,420,100,35,0.535
+4,Flathead,Dusky Flathead,0.69,0.699978888,1.00,315,Dorsal,420,100,35,0.535
+4,Flathead,Dusky Flathead,0.74,0.741503,1.00,0,Dorsal,420,100,35,0.535
+4,Flathead,Dusky Flathead,0.65,0.654273093,1.00,0,Ventral,420,100,35,0.535
+4,Flathead,Dusky Flathead,0.28,0.281471848,1.00,45,Ventral,420,100,35,0.535
+4,Flathead,Dusky Flathead,0.57,0.575378537,1.00,135,Ventral,420,100,35,0.535
+4,Flathead,Dusky Flathead,0.76,0.760884404,1.00,180,Ventral,420,100,35,0.535
+4,Flathead,Dusky Flathead,0.33,0.334620118,1.00,270,Ventral,420,100,35,0.535
+4,Flathead,Dusky Flathead,0.22,0.229708374,1.00,315,Ventral,420,100,35,0.535
+4,Flathead,Southern Maori Wrasse,0.57,0.149076641,1.50,Groundtruth,Groundtruth,420,100,35,0.535
+4,Flathead,Sergeant Baker,0.75,0.041028366,1.50,0,Ventral,420,100,35,0.535
+4,Flathead,Southern Maori Wrasse,0.67,0.0615108,1.50,45,Ventral,420,100,35,0.535
+4,Flathead,Sergeant Baker,0.33,0.271978259,1.50,90,Ventral,420,100,35,0.535
+4,Flathead,Southern Maori Wrasse,0.45,0.315559953,1.50,135,Ventral,420,100,35,0.535
+4,Flathead,Southern Maori Wrasse,0.58,0.207125351,1.50,180,Ventral,420,100,35,0.535
+4,Flathead,Southern Maori Wrasse,0.7,0.10333097,1.50,225,Ventral,420,100,35,0.535
+4,Flathead,Southern Maori Wrasse,0.37,0.350494027,1.50,270,Ventral,420,100,35,0.535
+4,Flathead,Southern Maori Wrasse,0.8,0.056370009,1.50,0,Ventral,420,100,35,0.535
+4,Flathead,Sergeant Baker,0.4,0.258077502,1.50,0,Dorsal,420,100,35,0.535
+4,Flathead,Sergeant Baker,0.5,0.0897026,1.50,45,Dorsal,420,100,35,0.535
+4,Flathead,Dusky Flathead,0.55,0.552882254,1.50,90,Dorsal,420,100,35,0.535
+4,Flathead,Sergeant Baker,0.35,0.275310159,1.50,135,Dorsal,420,100,35,0.535
+4,Flathead,Dusky Flathead,0.61,0.611437559,1.50,180,Dorsal,420,100,35,0.535
+4,Flathead,Sergeant Baker,0.78,0.11778415,1.50,225,Dorsal,420,100,35,0.535
+4,Flathead,Sergeant Baker,0.45,0.346512854,1.50,270,Dorsal,420,100,35,0.535
+4,Flathead,Dusky Flathead,0.36,0.367107451,1.50,315,Dorsal,420,100,35,0.535
+5,Snapper,Southern Maori Wrasse,0.32,0.108790159,1.50,Groundtruth,Groundtruth,,,,
+5,Snapper,Sergeant Baker,0.26,0.026591335,1.50,0,Right,400,140,40,0.785
+5,Snapper,Dusky Flathead,0.57,0.015647696,1.50,45,Right,400,140,40,0.785
+5,Snapper,Dusky Flathead,0.59,0.01562001,1.50,90,Right,400,140,40,0.785
+5,Snapper,yellowfin bream,0.33,0.028226348,1.50,135,Right,400,140,40,0.785
+5,Snapper,Dusky Flathead,0.51,0.019656172,1.50,180,Right,400,140,40,0.785
+5,Snapper,Dusky Flathead,0.37,0.076725617,1.50,225,Right,400,140,40,0.785
+5,Snapper,Dusky Flathead,0.62,0.005357936,1.50,270,Right,400,140,40,0.785
+5,Snapper,Dusky Flathead,0.34,0.080477223,1.50,315,Right,400,140,40,0.785
+5,Snapper,Sergeant Baker,0.26,0.165332228,1.50,0,Right,400,140,40,0.785
+5,Snapper,Southern Maori Wrasse,0.38,0.026152082,1.50,0,Left,400,140,40,0.785
+5,Snapper,Dusky Flathead,0.61,0.007699801,1.50,45,Left,400,140,40,0.785
+5,Snapper,Sergeant Baker,0.28,0.07721132,1.50,135,Left,400,140,40,0.785
+5,Snapper,Dusky Flathead,0.46,0.05499927,1.50,180,Left,400,140,40,0.785
+5,Snapper,Dusky Flathead,0.38,0.034598913,1.00,180,Left,400,140,40,0.785
+5,Snapper,Southern Calamari,0.37,0.047149278,1.00,225,Left,400,140,40,0.785
+5,Snapper,yellowfin bream,0.51,0.112341136,1.00,270,Left,400,140,40,0.785
+5,Snapper,Snapper,0.39,0.390851885,1.00,315,Left,400,140,40,0.785
+5,Snapper,Dusky Flathead,0.44,0.060757723,1.00,0,Left,400,140,40,0.785
+5,Snapper,Dusky Flathead,0.26,0.107699797,1.00,45,Left,400,140,40,0.785
+5,Snapper,yellowfin bream,0.36,0.024025904,1.00,90,Left,400,140,40,0.785
+5,Snapper,Dusky Flathead,0.23,0.037790164,1.00,135,Left,400,140,40,0.785
+5,Snapper,Dusky Flathead,0.38,0.027882665,1.00,Groundtruth,Groundtruth,,,,
+5,Snapper,Dusky Flathead,0.51,0.013540873,1.00,180,Right,400,140,40,0.785
+5,Snapper,Dusky Flathead,0.37,0.062032446,1.00,225,Right,400,140,40,0.785
+5,Snapper,Dusky Flathead,0.17,0.113923,1.00,270,Right,400,140,40,0.785
+5,Snapper,Dusky Flathead,0.53,0.101886794,1.00,315,Right,400,140,40,0.785
+5,Snapper,Dusky Flathead,0.33,0.048935153,1.00,0,Right,400,140,40,0.785
+5,Snapper,Southern Calamari,0.23,0.132278442,1.00,45,Right,400,140,40,0.785
+5,Snapper,yellowfin bream,0.35,0.132815421,1.00,90,Right,400,140,40,0.785
+5,Snapper,Dusky Flathead,0.37,0.0618745,1.00,135,Right,400,140,40,0.785
+6,Trevally,Dusky Flathead,0.42,0,1.00,Groundtruth,Groundtruth,,,,
+6,Trevally,Dusky Flathead,0.64,0,1.00,180,Left,300,100,25,0.280
+6,Trevally,Dusky Flathead,0.2,0,1.00,135,Left,300,100,25,0.280
+6,Trevally,Sergeant Baker,0.26,0,1.00,90,Left,300,100,25,0.280
+6,Trevally,Dusky Flathead,0.39,0,1.00,45,Left,300,100,25,0.280
+6,Trevally,Sixspine Leatherjacket,0.25,0,1.00,0,Left,300,100,25,0.280
+6,Trevally,Grey Morwong,0.34,0,1.00,315,Left,300,100,25,0.280
+6,Trevally,Dusky Flathead,0.35,0,1.00,270,Left,300,100,25,0.280
+6,Trevally,Grey Morwong,0.37,0,1.00,225,Left,300,100,25,0.280
+6,Trevally,Dusky Flathead,0.51,0,1.00,180,Right,300,100,25,0.280
+6,Trevally,Southern Calamari,0.25,0,1.00,225,Right,300,100,25,0.280
+6,Trevally,Dusky Flathead,0.3,0,1.00,270,Right,300,100,25,0.280
+6,Trevally,Grey Morwong,0.43,0,1.00,315,Right,300,100,25,0.280
+6,Trevally,Dusky Flathead,0.38,0,1.00,0,Right,300,100,25,0.280
+6,Trevally,Grey Morwong,0.21,0,1.00,45,Right,300,100,25,0.280
+6,Trevally,Grey Morwong,0.23,0,1.00,90,Right,300,100,25,0.280
+6,Trevally,Grey Morwong,0.35,0,1.00,135,Right,300,100,25,0.280
+6,Trevally,Southern Calamari,0.34,0,1.00,180,Right,300,100,25,0.280
+6,Trevally,yellowfin bream,0.42,0,1.50,Groundtruth,Groundtruth,,,,
+6,Trevally,yellowfin bream,0.45,0,1.50,180,Right,300,100,25,0.280
+6,Trevally,Dusky Flathead,0.35,0,1.50,225,Right,300,100,25,0.280
+6,Trevally,Dusky Flathead,0.65,0,1.50,270,Right,300,100,25,0.280
+6,Trevally,yellowfin bream,0.39,0,1.50,315,Right,300,100,25,0.280
+6,Trevally,yellowfin bream,0.38,0,1.50,0,Right,300,100,25,0.280
+6,Trevally,yellowfin bream,0.35,0,1.50,45,Right,300,100,25,0.280
+6,Trevally,yellowfin bream,0.43,0,1.50,90,Right,300,100,25,0.280
+6,Trevally,yellowfin bream,0.31,0,1.50,135,Right,300,100,25,0.280
+6,Trevally,Dusky Flathead,0.56,0,1.50,0,Left,300,100,25,0.280
+6,Trevally,Dusky Flathead,0.54,0,1.50,315,Left,300,100,25,0.280
+6,Trevally,Dusky Flathead,0.76,0,1.50,270,Left,300,100,25,0.280
+6,Trevally,Dusky Flathead,0.32,0,1.50,225,Left,300,100,25,0.280
+6,Trevally,Dusky Flathead,0.8,0,1.50,180,Left,300,100,25,0.280
+6,Trevally,Dusky Flathead,0.36,0,1.50,135,Left,300,100,25,0.280
+6,Trevally,Dusky Flathead,0.4,0,1.50,90,Left,300,100,25,0.280
+6,Trevally,Dusky Flathead,0.56,0,1.50,45,Left,300,100,25,0.280
+7,Leatherjacket,Sergeant Baker,0.49,0.002731564,1.50,Groundtruth,Groundtruth,,,,
+7,Leatherjacket,Southern Maori Wrasse,0.25,0.001754455,1.50,Groundtruth,Groundtruth,,,,
+7,Leatherjacket,Sergeant Baker,0.6,0.000680166,1.50,180,Left,350,100,30,0.505
+7,Leatherjacket,Sergeant Baker,0.43,0.000432674,1.50,135,Left,350,100,30,0.505
+7,Leatherjacket,yellowfin bream,0.51,0.000388921,1.50,90,Left,350,100,30,0.505
+7,Leatherjacket,Sergeant Baker,0.35,0.000303798,1.50,45,Left,350,100,30,0.505
+7,Leatherjacket,Dusky Flathead,0.46,0.000285691,1.50,0,Left,350,100,30,0.505
+7,Leatherjacket,Sergeant Baker,0.43,0.000170427,1.50,315,Left,350,100,30,0.505
+7,Leatherjacket,Dusky Flathead,0.33,0.000557989,1.50,270,Left,350,100,30,0.505
+7,Leatherjacket,Sergeant Baker,0.39,0.000683935,1.50,225,Left,350,100,30,0.505
+7,Leatherjacket,Dusky Flathead,0.53,0.000315019,1.50,0,Right,350,100,30,0.505
+7,Leatherjacket,Dusky Flathead,0.44,0.00068843,1.50,45,Right,350,100,30,0.505
+7,Leatherjacket,Sergeant Baker,0.36,0.000241182,1.50,90,Right,350,100,30,0.505
+7,Leatherjacket,yellowfin bream,0.34,0.000494194,1.50,135,Right,350,100,30,0.505
+7,Leatherjacket,Sergeant Baker,0.8,0.000226927,1.50,180,Right,350,100,30,0.505
+7,Leatherjacket,Sergeant Baker,0.62,0.001232488,1.50,180,Right,350,100,30,0.505
+7,Leatherjacket,Sergeant Baker,0.64,0.000136345,1.50,225,Right,350,100,30,0.505
+7,Leatherjacket,Sergeant Baker,0.79,0.000290751,1.50,270,Right,350,100,30,0.505
+7,Leatherjacket,Sergeant Baker,0.37,0.000584535,1.50,315,Right,350,100,30,0.505
+7,Leatherjacket,Dusky Flathead,0.43,0.000257503,1.50,0,Right,350,100,30,0.505
+7,Leatherjacket,Dusky Flathead,0.47,0.042660754,1.00,Groundtruth,Groundtruth,,,,
+7,Leatherjacket,yellowfin bream,0.3,0.015900223,1.00,0,Right,350,100,30,0.505
+7,Leatherjacket,Dusky Flathead,0.65,0.021388857,1.00,45,Right,350,100,30,0.505
+7,Leatherjacket,Sergeant Baker,0.53,0.019714221,1.00,90,Right,350,100,30,0.505
+7,Leatherjacket,Southern Calamari,0.3,0.050838497,1.00,135,Right,350,100,30,0.505
+7,Leatherjacket,Southern Maori Wrasse,0.5,0.015309596,1.00,180,Right,350,100,30,0.505
+7,Leatherjacket,Southern Calamari,0.23,0.068936981,1.00,225,Right,350,100,30,0.505
+7,Leatherjacket,Sergeant Baker,0.41,0.039645225,1.00,270,Right,350,100,30,0.505
+7,Leatherjacket,Dusky Flathead,0.55,0.064521812,1.00,315,Right,350,100,30,0.505
+7,Leatherjacket,Sergeant Baker,0.25,0.042554386,1.00,180,Left,350,100,30,0.505
+7,Leatherjacket,Dusky Flathead,0.22,0.16468367,1.00,135,Left,350,100,30,0.505
+7,Leatherjacket,Sergeant Baker,0.5,0.027476572,1.00,90,Left,350,100,30,0.505
+7,Leatherjacket,Dusky Flathead,0.35,0.051067658,1.00,45,Left,350,100,30,0.505
+7,Leatherjacket,Dusky Flathead,0.3,0.038663857,1.00,0,Left,350,100,30,0.505
+7,Leatherjacket,Sergeant Baker,0.31,0.0337781,1.00,315,Left,350,100,30,0.505
+7,Leatherjacket,Dusky Flathead,0.26,0.021031773,1.00,270,Left,350,100,30,0.505
+7,Leatherjacket,Dusky Flathead,0.68,0.01740125,1.00,225,Left,350,100,30,0.505
+8,Eastern Red Scorpionfish,Sergeant Baker,0.6,0,1.00,Groundtruth,Groundtruth,,,,
+8,Eastern Red Scorpionfish,Dusky Flathead,0.22,0,1.00,0,Right,280,120,70,0.440
+8,Eastern Red Scorpionfish,Sergeant Baker,0.31,0,1.00,90,Right,280,120,70,0.440
+8,Eastern Red Scorpionfish,Snapper,0.29,0,1.00,135,Right,280,120,70,0.440
+8,Eastern Red Scorpionfish,Snapper,0.33,0,1.00,180,Right,280,120,70,0.440
+8,Eastern Red Scorpionfish,Dusky Flathead,0.26,0,1.00,225,Right,280,120,70,0.440
+8,Eastern Red Scorpionfish,Southern Calamari,0.41,0,1.00,270,Right,280,120,70,0.440
+8,Eastern Red Scorpionfish,Snapper,0.8,0,1.00,315,Right,280,120,70,0.440
+8,Eastern Red Scorpionfish,Sergeant Baker,0.76,0,1.00,180,Left,280,120,70,0.440
+8,Eastern Red Scorpionfish,Sergeant Baker,0.24,0,1.00,135,Left,280,120,70,0.440
+8,Eastern Red Scorpionfish,Dusky Flathead,0.37,0,1.00,90,Left,280,120,70,0.440
+8,Eastern Red Scorpionfish,Snapper,0.47,0,1.00,45,Left,280,120,70,0.440
+8,Eastern Red Scorpionfish,Sergeant Baker,0.33,0,1.00,0,Left,280,120,70,0.440
+8,Eastern Red Scorpionfish,Snapper,0.37,0,1.00,315,Left,280,120,70,0.440
+8,Eastern Red Scorpionfish,Sergeant Baker,0.28,0,1.00,270,Left,280,120,70,0.440
+8,Eastern Red Scorpionfish,Snapper,0.46,0,1.00,225,Left,280,120,70,0.440
+8,Eastern Red Scorpionfish,Sergeant Baker,0.57,0,1.50,Groundtruth,Groundtruth,,,,
+8,Eastern Red Scorpionfish,Sergeant Baker,0.7,0,1.50,180,Left,280,120,70,0.440
+8,Eastern Red Scorpionfish,Southern Maori Wrasse,0.46,0,1.50,135,Left,280,120,70,0.440
+8,Eastern Red Scorpionfish,Sergeant Baker,0.71,0,1.50,90,Left,280,120,70,0.440
+8,Eastern Red Scorpionfish,Southern Maori Wrasse,0.45,0,1.50,45,Left,280,120,70,0.440
+8,Eastern Red Scorpionfish,yellowfin bream,0.57,0,1.50,0,Left,280,120,70,0.440
+8,Eastern Red Scorpionfish,Sergeant Baker,0.57,0,1.50,270,Left,280,120,70,0.440
+8,Eastern Red Scorpionfish,Sergeant Baker,0.78,0,1.50,225,Left,280,120,70,0.440
+8,Eastern Red Scorpionfish,Sergeant Baker,0.71,0,1.50,0,Right,280,120,70,0.440
+8,Eastern Red Scorpionfish,Sergeant Baker,0.3,0,1.50,45,Right,280,120,70,0.440
+8,Eastern Red Scorpionfish,Sergeant Baker,0.34,0,1.50,90,Right,280,120,70,0.440
+8,Eastern Red Scorpionfish,Southern Maori Wrasse,0.32,0,1.50,135,Right,280,120,70,0.440
+8,Eastern Red Scorpionfish,Sergeant Baker,0.69,0,1.50,180,Right,280,120,70,0.440
+8,Eastern Red Scorpionfish,Sergeant Baker,0.67,0,1.50,225,Right,280,120,70,0.440
+8,Eastern Red Scorpionfish,Sergeant Baker,0.93,0,1.50,270,Right,280,120,70,0.440
+8,Eastern Red Scorpionfish,yellowfin bream,0.28,0,1.50,315,Right,280,120,70,0.440
+9,Tailor,yellowfin bream,0.3,0,1.50,Groundtruth,Groundtruth,,,,
+9,Tailor,Southern Maori Wrasse,0.35,0,1.50,0,Right,500,120,35,1.080
+9,Tailor,yellowfin bream,0.37,0,1.50,45,Right,500,120,35,1.080
+9,Tailor,Dusky Flathead,0.42,0,1.50,90,Right,500,120,35,1.080
+9,Tailor,yellowfin bream,0.27,0,1.50,135,Right,500,120,35,1.080
+9,Tailor,yellowfin bream,0.48,0,1.50,180,Right,500,120,35,1.080
+9,Tailor,Southern Maori Wrasse,0.29,0,1.50,225,Right,500,120,35,1.080
+9,Tailor,yellowfin bream,0.58,0,1.50,270,Right,500,120,35,1.080
+9,Tailor,Dusky Flathead,0.34,0,1.50,315,Right,500,120,35,1.080
+9,Tailor,Dusky Flathead,0.35,0,1.50,180,Left,500,120,35,1.080
+9,Tailor,yellowfin bream,0.36,0,1.50,135,Left,500,120,35,1.080
+9,Tailor,Sergeant Baker,0.31,0,1.50,90,Left,500,120,35,1.080
+9,Tailor,Dusky Flathead,0.57,0,1.50,0,Left,500,120,35,1.080
+9,Tailor,Dusky Flathead,0.92,0,1.50,315,Left,500,120,35,1.080
+9,Tailor,Dusky Flathead,0.86,0,1.50,270,Left,500,120,35,1.080
+9,Tailor,Dusky Flathead,0.49,0,1.00,Groundtruth,Groundtruth,,,,
+9,Tailor,Southern Calamari,0.39,0,1.00,180,Left,500,120,35,1.080
+9,Tailor,Grey Morwong,0.4,0,1.00,135,Left,500,120,35,1.080
+9,Tailor,Grey Morwong,0.32,0,1.00,135,Left,500,120,35,1.080
+9,Tailor,Southern Calamari,0.28,0,1.00,90,Left,500,120,35,1.080
+9,Tailor,Grey Morwong,0.43,0,1.00,45,Left,500,120,35,1.080
+9,Tailor,Dusky Flathead,0.76,0,1.00,0,Left,500,120,35,1.080
+9,Tailor,Grey Morwong,0.53,0,1.00,315,Left,500,120,35,1.080
+9,Tailor,Grey Morwong,0.5,0,1.00,270,Left,500,120,35,1.080
+9,Tailor,Dusky Flathead,0.25,0,1.00,225,Left,500,120,35,1.080
+9,Tailor,Dusky Flathead,0.65,0,1.00,0,Right,500,120,35,1.080
+9,Tailor,Dusky Flathead,0.23,0,1.00,45,Right,500,120,35,1.080
+9,Tailor,Grey Morwong,0.56,0,1.00,90,Right,500,120,35,1.080
+9,Tailor,Southern Maori Wrasse,0.27,0,1.00,135,Right,500,120,35,1.080
+9,Tailor,Southern Maori Wrasse,0.51,0,1.00,180,Right,500,120,35,1.080
+9,Tailor,Grey Morwong,0.33,0,1.00,225,Right,500,120,35,1.080
+9,Tailor,Dusky Flathead,0.29,0,1.00,270,Right,500,120,35,1.080
+9,Tailor,Dusky Flathead,0.46,0,1.00,315,Right,500,120,35,1.080
+10,Bream,Dusky Flathead,0.44,0.148968354,1.00,Groundtruth,Groundtruth,,,,
+10,Bream,Southern Maori Wrasse,0.35,0.101929843,1.00,0,Right,330,130,35,0.530
+10,Bream,yellowfin bream,0.37,0.091455706,1.00,45,Right,330,130,35,0.530
+10,Bream,Dusky Flathead,0.42,0.225311622,1.00,90,Right,330,130,35,0.530
+10,Bream,yellowfin bream,0.27,0.078217238,1.00,135,Right,330,130,35,0.530
+10,Bream,yellowfin bream,0.48,0.193646863,1.00,180,Right,330,130,35,0.530
+10,Bream,Southern Maori Wrasse,0.29,0.071151123,1.00,225,Right,330,130,35,0.530
+10,Bream,yellowfin bream,0.58,0.045221798,1.00,270,Right,330,130,35,0.530
+10,Bream,Dusky Flathead,0.34,0.130470112,1.00,315,Right,330,130,35,0.530
+10,Bream,Dusky Flathead,0.35,0.068593122,1.00,180,Left,330,130,35,0.530
+10,Bream,yellowfin bream,0.36,0.022256898,1.00,135,Left,330,130,35,0.530
+10,Bream,Sergeant Baker,0.31,0.284054965,1.00,90,Left,330,130,35,0.530
+10,Bream,Dusky Flathead,0.57,0.092780471,1.00,45,Left,330,130,35,0.530
+10,Bream,Dusky Flathead,0.92,0.044249006,1.00,0,Left,330,130,35,0.530
+10,Bream,Dusky Flathead,0.86,0.241592392,1.00,315,Left,330,130,35,0.530
+10,Bream,Dusky Flathead,0.49,0.200570419,1.00,270,Left,330,130,35,0.530
+10,Bream,Southern Calamari,0.39,0.05416216,1.00,225,Left,330,130,35,0.530
+10,Bream,Grey Morwong,0.4,0.40833807,1.50,Groundtruth,Groundtruth,,,,
+10,Bream,Grey Morwong,0.32,0.173605576,1.50,180,Left,330,130,35,0.530
+10,Bream,Southern Calamari,0.28,0.058045983,1.50,135,Left,330,130,35,0.530
+10,Bream,Grey Morwong,0.43,0.221605241,1.50,90,Left,330,130,35,0.530
+10,Bream,Dusky Flathead,0.76,0.57986182,1.50,45,Left,330,130,35,0.530
+10,Bream,Grey Morwong,0.53,0.083133742,1.50,0,Left,330,130,35,0.530
+10,Bream,Grey Morwong,0.5,0.638451874,1.50,315,Left,330,130,35,0.530
+10,Bream,Dusky Flathead,0.25,0.293308198,1.50,225,Left,330,130,35,0.530
+10,Bream,Dusky Flathead,0.65,0.142437443,1.50,0,Right,330,130,35,0.530
+10,Bream,Dusky Flathead,0.23,0.109921582,1.50,45,Right,330,130,35,0.530
+10,Bream,Grey Morwong,0.56,0.110160507,1.50,90,Right,330,130,35,0.530
+10,Bream,Southern Maori Wrasse,0.27,0.308719456,1.50,135,Right,330,130,35,0.530
+10,Bream,Southern Maori Wrasse,0.51,0.028506776,1.50,180,Right,330,130,35,0.530
+10,Bream,Grey Morwong,0.33,0.43238768,1.50,225,Right,330,130,35,0.530
+10,Bream,Dusky Flathead,0.29,0.540227056,1.50,270,Right,330,130,35,0.530
+10,Bream,Dusky Flathead,0.46,0.11056266,1.50,315,Right,330,130,35,0.530
